@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tino <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Web Developer developer from Valencia, Spain</h3>
 
-- 🔭 I’m currently studying at <a href="https://www.floridauniversitaria.es/">**Florida Universitaria** </a>
+- 🔭 I’m currently studying at <a href="https://www.floridauniversitaria.es/">**Florida Universitaria** </a> and working as **Web developer**
 
 - 🌱 I’m currently learning **Angular, symfony and Tailwind**
 
