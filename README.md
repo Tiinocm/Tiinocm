@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at <a href="https://www.floridauniversitaria.es/">**Florida Universitaria** </a>
 
-- 🌱 I’m currently learning **React, spring and Tailwind**
+- 🌱 I’m currently learning **React Native, Java and Tailwind**
 
 - 📫 Contact with me: **tinocalvomascaros@gmail.com**
 
@@ -32,6 +32,13 @@
    <a href="https://www.typescriptlang.org/docs/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="typescript"       width="40" height="40"/> 
   </a> 
+  <a href="https://www.php.net/docs.php" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/php/php-original.svg" alt="php"       width="40" height="40"/> 
+  </a> 
+  <a href="https://docs.oracle.com/en/java/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" alt="Java"       width="40" height="40"/> 
+  </a> 
+
   <a href="https://getbootstrap.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg"                 alt="bootstrap" width="40" height="40"/> 
   </a> 
@@ -46,13 +53,15 @@
   <h3 align="center">Frameworks:</h3>
   <p align="center"> 
     <a href="https://symfony.com/doc/current/index.html" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/symfony/symfony-original.svg" alt="Symfony"                 width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/symfony/symfony-original.svg" alt="Symfony" width="40" height="40"/>
     </a>
     <a href="https://angular.io/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" alt="Angular        width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
     </a>
+        <a href="https://react.dev/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" alt="React & React Native" width="40" height="40"/>
+      </a>
 </p>
 <p align= "center">
-  <!--<img height= "150" src="https://github-readme-stats.vercel.app/api?username=Tiinocm&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiinocm&theme=react&layout=compact" /> -->
+  <!--<img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiinocm&theme=react&layout=compact" /> -->
 </p>
